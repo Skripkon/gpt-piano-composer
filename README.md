@@ -1,7 +1,7 @@
 # ChatGPT 3.5 Piano Composer 🎹
 
 ## How It Works
-Use the following <b>prompt<b>:
+Use the following <b>prompt</b>:
 "Hello, can you generate piano music? Write 200 elements in the following format: offset quartelength list of notes. Each element would be represented as a chord, so you can include from 1 to 10 notes for each element (use a different number of notes for each chord). The list of notes could be a single note. Quartelength is a number from 0 to 4. Offset represents the offset in relation to the beginning of the song."
 
 ## Usage
