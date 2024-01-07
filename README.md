@@ -10,3 +10,7 @@ Use the following <b>prompt</b>:
 
 ## Experiment and Enjoy!
 Feel free to tweak the prompt and explore the endless possibilities of creating unique piano compositions with ChatGPT 3.5. Happy composing! 🎶
+
+
+https://github.com/Skripkon/gpt-piano-composer/assets/78466953/14d8663b-2405-463c-a375-78a05ac9786a
+
